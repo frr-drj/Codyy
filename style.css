@@ -36,3 +36,15 @@ button {
 button:hover {
   background-color: #0056b3;
 }
+
+/* Add a readable text option */
+#readableOption {
+  margin-top: 10px;
+  font-size: 14px;
+}
+
+#outputText {
+  margin-top: 20px;
+  font-size: 18px;
+  line-height: 1.6;
+}
